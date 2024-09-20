@@ -1,0 +1,22 @@
+#hed{
+    color: crimson;
+}
+body{
+    background-image: linear-gradient( to top left,gold 50%,brown 50%,yellow);
+    color: midnightblue;
+    background-attachment: scroll;
+}
+@keyframes ani{
+25%{color: rgb(120, 27, 120);}
+25%{color: rgb(140, 39, 255);}
+25%{color: rgb(85, 255, 0);}
+25%{color: rgb(148, 43, 2);}
+}
+.ani{
+    animation-name: ani;
+    animation-duration: 15s;
+}
+div.{
+    background-image: url(wild.png);
+    background-repeat: no-repeat;
+}
