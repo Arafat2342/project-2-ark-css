@@ -22,7 +22,7 @@ body{
     animation-name: ani;
     animation-duration: 20s;
 }
-div.{
-    background-image: url(wild.png);
-    background-repeat: no-repeat;
+#ark{
+    border: 0 solid;
+    border-radius: 8px;
 }
